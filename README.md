@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=otaku0721&show_icons=true&include_all_commits=true" />
+<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaku0721&layout=compact" />
 <!--
 **otaku0721/otaku0721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
