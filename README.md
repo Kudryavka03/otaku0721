@@ -1,7 +1,7 @@
-### Hi there 👋
+### 🌱 [御桜稟](https://bgm.tv/character/11478) 最！棒！了！🥰🥰🥰
 <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=otaku0721&show_icons=true&include_all_commits=true" />
-<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaku0721&layout=compact" />
 <!--
+<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaku0721&layout=compact" />
 **otaku0721/otaku0721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
